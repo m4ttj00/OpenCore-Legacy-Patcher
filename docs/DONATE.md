@@ -15,7 +15,7 @@ Additionally, hardware info dumps are greatly beneficial for us to determine wha
   * `File -> SaveAs` and open an issue on Github
   * Note: We want IOReg dumps of hardware not running on OpenCore, instead running a clean, officially supported OS by the machine
 
-If you have any legacy hardware you're willing to donate or what to buy us something, please contact us at the following email:
+If you have any legacy hardware you're willing to donate, or would like to buy us something, please contact us at the following email:
 
 * khronokernel@icloud.com
 
